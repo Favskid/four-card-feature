@@ -29,14 +29,14 @@ main p {
     font-size: 22px;
     text-align: center;
     font-weight: 200;
-    margin-bottom: -1rem;
+    margin-bottom: -2rem;
 }
 
 main h1 {
    color: var(--grey-500);
    text-align: center;
    font-weight: 600;
-   margin-bottom: -1rem;
+   margin-bottom: 1rem;
 }
 
 main h2 {
